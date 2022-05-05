@@ -4,7 +4,7 @@ import { FC } from "react";
 const Footer: FC = () => {
   return (
     <div className="mx-auto mb-10 flex w-screen justify-center">
-      <a href="https://vercel.com/avneesh0612?utm_source=buidlers-hub&utm_campaign=oss">
+      <a href="https://vercel.com?utm_source=buidlers-hub&utm_campaign=oss">
         <Image
           src="/powered-by-vercel.svg"
           height="50"
