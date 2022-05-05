@@ -56,3 +56,11 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2022 [Avneesh Agarwal](https://github.com/avneesh0612).<br />
 This project is [GNU](https://github.com/avneesh0612/react-nextjs-snippets/blob/main/LICENSE) licensed.
+
+## 🚀 Powered by
+
+<p align="center">
+<a href="https://vercel.com/avneesh0612?utm_source=buidlers-hub&utm_campaign=oss">
+<img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg"/>
+</a>
+</p>
