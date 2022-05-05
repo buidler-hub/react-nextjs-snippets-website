@@ -5,6 +5,7 @@ import Installation from "../components/Installation";
 import Working from "../components/Working";
 
 import type { NextPage } from "next";
+import Footer from "../components/Footer";
 
 const Home: NextPage = () => {
   return (
@@ -19,6 +20,7 @@ const Home: NextPage = () => {
         <Working />
         <Installation />
       </div>
+      <Footer />
     </div>
   );
 };
