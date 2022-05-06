@@ -66,7 +66,7 @@ All the snippets and using guide is given in the [USING Guide](./packages/vscode
 ### Atharva
 
 - Youtube: https://www.youtube.com/channel/UC3UrEDB27fL3vbnt-tiMgoQ
-- Twitter: [@kira_272921](https://twitter.com/athudeosthale)
+- Twitter: [@athudeosthale](https://twitter.com/athudeosthale)
 
 # Show your support
 
