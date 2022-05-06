@@ -48,6 +48,26 @@ If you are using `coc-snippets`, you can simply run the following command -
 
 All the snippets and using guide is given in the [USING Guide](./packages/vscode/README.md)
 
+## 🦸‍♂️ Authors
+
+### Anurag
+
+- Website: https://www.anurag.tech/
+- Twitter: [@imanuraglol](https://twitter.com/imanuraglol)
+- Discord: `Anurag#9186`
+
+### Avneesh Agarwal
+
+- Website: https://www.avneesh.tech/
+- Twitter: [@avneesh0612](https://twitter.com/avneesh0612)
+- Github: [@avneesh0612](https://github.com/avneesh0612)
+- LinkedIn: [@avneesh0612](https://www.linkedin.com/in/avneesh0612)
+
+### Atharva
+
+- Youtube: https://www.youtube.com/channel/UC3UrEDB27fL3vbnt-tiMgoQ
+- Twitter: [@kira_272921](https://twitter.com/athudeosthale)
+
 # Show your support
 
 Give a ⭐️ if this project helped you!
