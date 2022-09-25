@@ -19,8 +19,8 @@
     "next-seo": "5.4.0",
     "react": "18.1.0",
     "react-dom": "18.1.0",
-    "@commitlint/cli": "17.0.2",
-    "@commitlint/config-conventional": "17.0.2"
+    "@commitlint/cli": "17.1.2",
+    "@commitlint/config-conventional": "17.1.0"
   },
   "devDependencies": {
     "@types/node": "17.0.40",
